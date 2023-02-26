@@ -1,8 +1,8 @@
 [mysql]
 #学号
-username=202002010114
+username=
 #密码
-password=sztu@302714
+password=
 #看准了再填 别写反了
 kcid=
 jx0404id=
