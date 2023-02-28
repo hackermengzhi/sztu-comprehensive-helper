@@ -1,4 +1,4 @@
-# sztu-scramble-for-class
+# sztu-comprehensive-helper
 SZTU教务抢课小脚本V1.0终终终于发布啦！你还在为抢不到课而烦恼吗？你还在为网速慢而丧气吗？sztu抢课脚本它来辣！
 # How to use?
 这是一份面向有一点动手基础的用户的一个小脚本，相比于锁子哥的js版本，此版本直接提供了Win的可执行文件，更加方便哦！
@@ -22,3 +22,4 @@ pip install -r requirements.txt
 <img width="1118" alt="d0ca5b8f062d8b90b0c92d68a6e2616" src="https://user-images.githubusercontent.com/50409074/221406512-2fb37d7f-add2-43e6-abf6-db8103eb9349.png">
 ## 注意
 配置文件需要完整填写并和脚本放在同一个目录，否则无法运行
+## 欢迎其他开发者提交pr来帮助此脚本完善，此脚本基于之前的一个git上面的Auth类并对其失效代码进行了更新，在此鸣谢作者。
